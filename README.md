@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="docs/images/cover.webp" alt="英语刷题机题库封面" width="100%">
+
   # 英语刷题机题库
 
   **四六级与考研英语 · ESQ 题库分发 · 校验后导入**
